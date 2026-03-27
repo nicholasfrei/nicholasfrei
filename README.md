@@ -1,8 +1,8 @@
 <a href="">
-  <img align="center" width="390" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=nicholasfrei&theme=github_dark&hide=contribs&show_icons=true" />
+  <img align="center" height="170" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=nicholasfrei&theme=github_dark&hide=contribs&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" width="390" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=nicholasfrei&theme=github_dark&layout=compact" />
+  <img align="center" height="170" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=nicholasfrei&theme=github_dark&layout=compact" />
 </a>
 
 <br/>
