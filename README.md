@@ -14,11 +14,13 @@
 <br/>
 <br/>
 
-## Projects I'm working on
+## Active Projects
 - [**Vault Reproductions**](https://github.com/nicholasfrei/vault-reproductions)
   - Project focused on HashiCorp Vault (learnings, education, runbooks, etc.)
 - [**Homestead Monitoring**](https://github.com/nicholasfrei/homestead-monitoring)
   - Solar-powered garden monitor that measures soil moisture and sends ntfy alerts when levels are outside of tolerance.
+
+## In My Free Time
 - [**YNAB Glance Integration**](https://github.com/nicholasfrei/ynab-glance)
   - A clean, native integration between YNAB (You Need A Budget) and Glance dashboard that displays spending data and budget information.
 - [**Pixel Agents (Cursor Fork)**](https://github.com/nicholasfrei/pixel-agents)
