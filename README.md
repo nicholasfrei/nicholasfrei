@@ -32,6 +32,9 @@ See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ni
     <td>
       <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125" />
     </td>
+    <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1z5XvAwS8G_ojSep2CpJdkYJ7MhpUvJ_8g&s" width="125" height="125" />
+    </td>
   </tr>
 </table>
 
